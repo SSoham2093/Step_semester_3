@@ -4,6 +4,17 @@ Daily progress log for Step Semester 3. Newest entry on top.
 
 ---
 
+## Date: 03-10-2026
+**Today's Work:**
+- Session 9 (`feature/session_9`, topic `abstraction`): garden plot area report, weekly staff pay, library late fine counter, electricity connection billing, travel booking common fee; assignment: movie ticket counter, parcel shipping desk, college fee counter, city cab fare meter, home appliance energy report
+
+**Next Session Plan:**
+- Session 10: next topic as per schedule
+
+**Issues Faced:**
+- None
+---
+
 ## Date: 26-09-2026
 **Today's Work:**
 - Session 8 (`feature/session_8`, topic `polymorphism`): payment fee calculator, library due date calculator, delivery fee calculator, exam question grader, transport fare calculator; assignment: canteen billing counter, campus parking charge, hostel electricity bill, festival bonus calculator, streaming plan renewal
