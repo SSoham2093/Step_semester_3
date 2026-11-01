@@ -6,6 +6,17 @@ Daily progress log for Step Semester 3. Newest entry on top.
 
 ## Date: 12-09-2026
 **Today's Work:**
+- Session 7 (`feature/session_7`, topic `encapsulation`): piggy bank, quiz scorecard, nickname tag, locker code, attendance sheet; assignment: health bar, playlist, password checker, traffic light, shopping cart
+
+**Next Session Plan:**
+- Session 8: next topic as per schedule
+
+**Issues Faced:**
+- None
+---
+
+## Date: 12-09-2026
+**Today's Work:**
 - Session 6 (`feature/session_6`, topic `classes_and_objects`): library inventory, payroll management, employee profile, hall ticket reference, employee company info; assignment: placement record management, mess wallet, course credit management, library ID card, student college info
 
 **Next Session Plan:**
