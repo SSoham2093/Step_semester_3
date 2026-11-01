@@ -4,6 +4,17 @@ Daily progress log for Step Semester 3. Newest entry on top.
 
 ---
 
+## Date: 26-09-2026
+**Today's Work:**
+- Session 8 (`feature/session_8`, topic `polymorphism`): payment fee calculator, library due date calculator, delivery fee calculator, exam question grader, transport fare calculator; assignment: canteen billing counter, campus parking charge, hostel electricity bill, festival bonus calculator, streaming plan renewal
+
+**Next Session Plan:**
+- Session 9: next topic as per schedule
+
+**Issues Faced:**
+- None
+---
+
 ## Date: 19-09-2026
 **Today's Work:**
 - Session 7 (`feature/session_7`, topic `encapsulation`): piggy bank, quiz scorecard, nickname tag, locker code, attendance sheet; assignment: health bar, playlist, password checker, traffic light, shopping cart
