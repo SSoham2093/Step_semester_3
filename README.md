@@ -4,6 +4,17 @@ Daily progress log for Step Semester 3. Newest entry on top.
 
 ---
 
+## Date: 10-10-2026
+**Today's Work:**
+- Session 10 (`feature/session_10`, topic `java_basics`): vowel and consonant counter, word reverser and palindrome checker, even and odd counter, in-place array reversal, digit sum and reversal, prime number checker, factorial calculator, student grade assignment, leap year detector, student result card; assignment: busiest bus row, class attendance tracker, duty roster rotation, exam score band counter, second best score
+
+**Next Session Plan:**
+- Session 11: next topic as per schedule
+
+**Issues Faced:**
+- None
+---
+
 ## Date: 03-10-2026
 **Today's Work:**
 - Session 9 (`feature/session_9`, topic `abstraction`): garden plot area report, weekly staff pay, library late fine counter, electricity connection billing, travel booking common fee; assignment: movie ticket counter, parcel shipping desk, college fee counter, city cab fare meter, home appliance energy report
