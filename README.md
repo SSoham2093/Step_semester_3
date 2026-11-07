@@ -4,6 +4,17 @@ Daily progress log for Step Semester 3. Newest entry on top.
 
 ---
 
+## Date: 31-10-2026
+**Today's Work:**
+- Session 11 (`feature/session_11`, topic `searching_sorting`): library catalog lookup, warehouse bin grid scan, transaction duplicate check, employee ID lookup, pair with target sum, best single trade profit, search insert position, spiral order traversal, pair sum in a sorted array, remove sorted duplicates; assignment: height line-up, prize table, library book shelf, queue order check, dice throw tally
+
+**Next Session Plan:**
+- Session 12: next topic as per schedule
+
+**Issues Faced:**
+- None
+---
+
 ## Date: 10-10-2026
 **Today's Work:**
 - Session 10 (`feature/session_10`, topic `java_basics`): vowel and consonant counter, word reverser and palindrome checker, even and odd counter, in-place array reversal, digit sum and reversal, prime number checker, factorial calculator, student grade assignment, leap year detector, student result card; assignment: busiest bus row, class attendance tracker, duty roster rotation, exam score band counter, second best score
