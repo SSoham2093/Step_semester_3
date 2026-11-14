@@ -4,6 +4,17 @@ Daily progress log for Step Semester 3. Newest entry on top.
 
 ---
 
+## Date: 14-11-2026
+**Today's Work:**
+- Session 12 (`feature/session_12`, topic `practice_problems`): campus staff salary, class report card, library return desk, payment processing, weekly rainfall analysis, hostel electricity bill; assignment: bus route stops, late comers in the line, book copy finder, cancel a booking, plate stack on a chain
+
+**Next Session Plan:**
+- Session 13: next topic as per schedule
+
+**Issues Faced:**
+- None
+---
+
 ## Date: 31-10-2026
 **Today's Work:**
 - Session 11 (`feature/session_11`, topic `searching_sorting`): library catalog lookup, warehouse bin grid scan, transaction duplicate check, employee ID lookup, pair with target sum, best single trade profit, search insert position, spiral order traversal, pair sum in a sorted array, remove sorted duplicates; assignment: height line-up, prize table, library book shelf, queue order check, dice throw tally
